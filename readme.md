@@ -1,3 +1,3 @@
-# Repositorz
+# Repository
 
 Example repository
